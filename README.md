@@ -6,3 +6,7 @@ Ref:
 - https://forum.xda-developers.com/t/radio-img-extractor.4055203/post-87267413
 - https://forum.xda-developers.com/t/edl-mode-and-test-point-of-the-moto-g-5g-plus.4371213/post-87807175
 
+## License
+
+[CC0-1.0](./LICENSE).
+
