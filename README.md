@@ -9,6 +9,9 @@ Ref:
 ### Projects using this
 
 - [LineageOS](https://github.com/LineageOS/android_tools_extract-utils/blob/97c5f8f93aae560092bd5c7d103b3a4e35596e36/extract_utils/extract_star.py)
+- [CalyxOS](https://github.com/CalyxOS/scripts/blob/65615eb60cdcd51a7725a1c6d06266ad578f089a/motorola/star.sh)
+- [Firmware_extractor](https://github.com/AndroidDumps/Firmware_extractor/blob/3df95e8be60d5a0160bced0b690fb61b3d74342a/tools/star)
+
 
 ## License
 
