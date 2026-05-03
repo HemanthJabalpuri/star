@@ -6,6 +6,10 @@ Ref:
 - https://forum.xda-developers.com/t/radio-img-extractor.4055203/post-87267413
 - https://forum.xda-developers.com/t/edl-mode-and-test-point-of-the-moto-g-5g-plus.4371213/post-87807175
 
+### Projects using this
+
+- [LineageOS](https://github.com/LineageOS/android_tools_extract-utils/blob/97c5f8f93aae560092bd5c7d103b3a4e35596e36/extract_utils/extract_star.py)
+
 ## License
 
 [CC0-1.0](./LICENSE).
